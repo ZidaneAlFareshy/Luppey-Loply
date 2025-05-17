@@ -180,7 +180,7 @@ export default function StorySlides() {
           onMouseLeave={(e) =>
             (e.target.style.backgroundColor = "rgba(255,255,255,0.1)")
           }>
-          Dan ini adalah kenangan kita
+          Ini adalah kenangan kita
         </a>
       )}
 
